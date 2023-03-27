@@ -1,6 +1,10 @@
 <h1>Hi, I'm Richard Spero!
 <a href="https://www.linkedin.com/in/rich-spero-a12549119/">Data Analyst</a>
 
+<h2>💻 About Me:</h2>
+  I am a Data Analyst with a diverse background with bachelor’s degree in business management. I also have experience in project management and data entry as a warehouse supervisor, problem solving and customer service skills from working in the financial industry. Today, I have the opportunity to bring my skills to provide data-driven research and feedback to help build and improve efficiency for companies and improve customer relationships.
+  I’m looking for the opportunity to work on engaging and impactful projects for companies and individuals who share my values. Check out my portfolio to see some of my past projects. 
+
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Excel</b>
@@ -10,13 +14,16 @@
 - <b>Python</b>
   - [Instacart Analysis](https://github.com/rspero1/Instacart_Analysis)
   - [Boat Sales Analysis](https://github.com/rspero1/Boat-Sales-Analysis)
+  
+<h2> ⚡ Resume:</h2> 
+<a href="https://drive.google.com/file/d/1sxefp7atQipUwsb6cdBsir0sjnobak9o/view?usp=sharing">Resume</a>
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/rich-spero-a12549119/">Linkedin</a>
 
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rspero1/rspero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
