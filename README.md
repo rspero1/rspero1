@@ -16,7 +16,7 @@
   - [Boat Sales Analysis](https://github.com/rspero1/Boat-Sales-Analysis)
   
 <h2> ⚡ Resume:</h2> 
-<a href="" download="FILENAME">Resume</a>
+<a href="data:application/octet-stream,DATA" download="Spero-Richard-Resume">Resume</a>
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/rich-spero-a12549119/">Linkedin</a>
 
