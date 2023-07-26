@@ -14,6 +14,7 @@
 - <b>Python</b>
   - [Instacart Analysis](https://github.com/rspero1/Instacart_Analysis)
   - [Boat Sales Analysis](https://github.com/rspero1/Boat-Sales-Analysis)
+  - [Netflix Analysis](https://github.com/rspero1/Netflix)
   
 <h2> ⚡ Resume:</h2> 
 <a href="https://github.com/rspero1/rspero1/blob/main/Spero-Richard-Resume.pdf" download="Spero-Richard-Resume">Resume</a>
